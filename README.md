@@ -3,7 +3,7 @@ I have chosen to work on a dataset that contains City Payroll Information for al
 
 In this project, I am particularly intrigued by the predictive power of various factors on the Benefit Costs and Basic Life insurance coverage of employees that work for LA. I also wanted to use more statistical methods in this project which helped me learn a lot about them.
 
-**The Data Story PDF file above gives a great overview of the project.
+**The Data Story PDF file above gives a great overview of the project.**
 
 
 ## Some thoughts
