@@ -1,5 +1,6 @@
 ## Project Overview 
 I have chosen to work on a dataset that contains City Payroll Information for all Los Angeles city departments. These departments are the ones that work for the city and do not involve any private organizations. The dataset includes a variety of variables, such as job titles, salaries, bonuses, and benefit costs. 
+
 In this project, I am particularly intrigued by the predictive power of various factors on the Benefit Costs and Basic Life insurance coverage of employees that work for LA. I also wanted to use more statistical methods in this project which helped me learn a lot about them.
 
 
